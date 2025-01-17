@@ -1,0 +1,22 @@
+{
+  "name": "My Blogger Website",
+  "short_name": "BloggerSite",
+  "start_url": "http://fast.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0000ff",
+  "icons": [
+    {
+      "src": "<img src="https://icons.iconarchive.com/icons/ccard3dev/dynamic-yosemite/128/Icon-Composer-icon.png" width="128" height="128">
+      ",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "<img src="https://icons.iconarchive.com/icons/ccard3dev/dynamic-yosemite/128/Icon-Composer-icon.png">
+      ",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
